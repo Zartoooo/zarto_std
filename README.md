@@ -1,5 +1,8 @@
 # zarto_std
 
+## Usage
+For making gamehacks codebases easier to setup, just include the headers you want
+
 ## Features
 - Basic math types (vec2/3, matrices)
 - Colors (RGB, RGBA, lerp)
