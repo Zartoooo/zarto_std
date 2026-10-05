@@ -1,0 +1,30 @@
+{
+    "config-name": "aimbot",
+    "version": 1,
+    "vars": {
+        "aimbot": {
+            "drawfov": true,
+            "enabled": true,
+            "fov": 100,
+            "smoothing": {
+                "x": 2.5,
+                "y": 1.1
+            }
+        },
+        "menu": {
+            "open": true
+        },
+        "misc": {
+            "walkspeed": 0
+        },
+        "visuals": {
+            "playeresp": true,
+            "playeresp.color": {
+                "a": 200,
+                "b": 80,
+                "g": 80,
+                "r": 255
+            }
+        }
+    }
+}

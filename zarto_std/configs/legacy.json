@@ -1,0 +1,12 @@
+{
+    "config-name": "legacy",
+    "vars": {
+        "menu": {
+            "open": true
+        },
+        "misc": {
+            "walkspeed": 300
+        }
+    },
+    "version": 1
+}
